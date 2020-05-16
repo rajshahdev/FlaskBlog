@@ -27,7 +27,7 @@ $ source env/bin/activate
 
 #### Run The File
 ```bash
-$ python3 manage.py
+$ python3 run.py
 ```
 
 #### Some Demo Output
