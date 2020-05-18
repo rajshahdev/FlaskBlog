@@ -3,7 +3,7 @@ This repo contains the source code to a complete social blogging applications wi
 This app is implemented based on miguelgrinberg and Corey.
 
 ### Tree
-![Markdown Tree](https://drive.google.com/open?id=1d72MHWnhqGASj4-tUqy_GnTlx4GkTp5V)
+![](images/treestructer.jpeg)
 
 ### What's Included
 * User Authentication
