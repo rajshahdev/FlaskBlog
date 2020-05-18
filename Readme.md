@@ -31,9 +31,9 @@ $ python3 run.py
 ```
 
 #### Some Demo Output
-![Markdown Homepage](https://drive.google.com/open?id=1gYAu5Zh4s75L8_c50Ewt6PGWH0piBlX5)
-![Markdown RegisterPage](https://drive.google.com/open?id=1TV-WBBOQ_63m5fxSoyoRlyHf8Q4CtTXf)
-![Markdown LoginPage](https://drive.google.com/open?id=1SHYFSrqtdW-rPp_BVD7V5z1hFdAhSsmH)
+![](images/Homepage.jpeg)
+![](images/Login.jpeg)
+![](images/Register.jpeg)
 
 ##### Caution
 Yet the flask app is not built fully i am continue to update this repo.
